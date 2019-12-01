@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "ez_setup.py and distribute_setup.py"
+name = "ez-setup"
+optional = false
+python-versions = "*"
+version = "0.9"
+
+[metadata]
+content-hash = "3525f6445ee52f9d54a3b7c28323b899f63fb0f0672d8b874f8d9d2f5bf7d13a"
+python-versions = "^3.7"
+
+[metadata.hashes]
+ez-setup = ["303c5b17d552d1e3fb0505d80549f8579f557e13d8dc90e5ecef3c07d7f58642"]
